@@ -1,6 +1,6 @@
 {
   "name": "@lightningkite/react-lightning-helpers",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "React components and helper functions to use in projects with a Lightning Server backend",
   "repository": {
     "type": "git",
