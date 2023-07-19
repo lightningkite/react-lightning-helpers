@@ -1,0 +1,25 @@
+site_name: React Lightning Helpers
+repo_url: https://github.com/lightningkite/react-lightning-helpers
+nav:
+  - Home: index.md
+  - Guide:
+      - Getting Started: guide/getting-started.md
+      - Helper Functions:
+          - makeSearchConditions: guide/make-search-conditions.md
+      - Hooks:
+          - useThrottle: guide/use-throttle.md
+  - Contributing:
+      - Docs: contributing/contributing-docs.md
+      - Library: contributing/contributing-library.md
+theme:
+  name: material
+  palette:
+    primary: blue
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+extra_css:
+  - style.css
+extra:
+  generator: false
